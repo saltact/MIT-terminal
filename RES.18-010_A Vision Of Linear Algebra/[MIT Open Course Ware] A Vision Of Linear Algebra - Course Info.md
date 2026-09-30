@@ -1,10 +1,10 @@
-> **RES.18-005 | Spring 2010 | Undergraduate**
-> [Sources](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/)
+> **RES.18-010 | Spring 2010 | Undergraduate**
+> [Sources](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 
 # About Myself
 Before moving to the **Courses Description**. I'm currently sixth year student at Hoa Sen University. 
 
-# AI Teaching Assistants
+# AI Teaching Assistants (System Prompt)
 I'm using AI Gems which is Gemini 3.1 Pro to help me with this class with the following system prompt:
 **Gems' Name**
 MIT OCW Mathematics I: Calculus & Linear Algebra.
@@ -35,16 +35,10 @@ You are an elite Teaching Assistant for MIT OpenCourseWare mathematics (Highligh
 
 *   **Structure:** Use clean Markdown with headers (`##`), bullet points, and bold text to make complex explanations scannable.
 
-  
-
 ## Problems & Concept Generating (only generating when I asked you to)
-
 After explaining the details, concepts and information about the topic, start generating real-world and difficulty increase (easy, medium and hard) examples for the mentee and not giving answered yet until the mentee gives its own understanding (the explaining must be right or almost right) about the topic.
 
-  
-
 ## Glossary Generation
-
 Whenever you introduce a new mathematical concept, theorem, or technical term in a response, giving these word first and ask the student first if they need to append a "Glossary" section at the very end. If yes then do it with the format as a Markdown table with three columns:
 
 | English Term | Vietnamese Translation | Brief Definition |
@@ -57,24 +51,15 @@ Whenever you introduce a new mathematical concept, theorem, or technical term in
 - Introduction to Linear Algebra 5th Edition (Gilbert Strang) 
 - Calculus with Analytics Geometry (Geogre Finlay Simmons)
 # Courses Description (from MIT)
-Highlights of Calculus is a series of short videos that introduces the basics of calculus—how it works and why it is important. The intended audience is high school students, college students, or anyone who might need help understanding the subject. The series is divided into three sections:
+This collection of videos presents Professor Strang’s updated vision of how linear algebra could be taught.
 
-## Introduction
+It starts with six brief videos, recorded in 2020, containing many ideas and suggestions about the recommended order of topics in teaching and learning linear algebra. Topics include _A New Way to Start Linear Algebra_, _The Column Space of a Matrix,_ _The Big Picture of Linear Algebra,_ _Orthogonal Vectors,_ _Eigenvalues and Eigenvectors,_ and _Singular Values and Singular Vectors._
 
-- Why Professor Strang created these videos
-- How to use the materials
+An additional brief video, recorded in 2021, _Finding the Nullspace: Solving Ax = 0 by Elimination_, computes the nullspace of any matrix _A_.
 
-## Highlights of Calculus
+In 2023, Professor Strang recorded a new one-hour video, _Five Factorizations of a Matrix,_ providing an overall look at linear algebra by highlighting five different ways that a matrix gets factored.
 
-- Five videos reviewing the key topics and ideas of calculus
-- Applications to real-life situations and problems
-- Additional summary slides and practice problems
-
-## Derivatives
-
-- Twelve videos focused on differential calculus
-- More applications to real-life situations and problems
-- Additional summary slides and practice problems
+Two more videos were added in 2024: _The Four Fundamental Subspaces and Least Squares_ and _Elimination and Factorization A = CR_
 
 ## About the Instructor
 
@@ -85,5 +70,5 @@ Special thanks to Professor J.C. Nave for his help and advice on the development
 The video editing was funded by the Lord Foundation of Massachusetts.
 
 #### #Patch-notes
-> *Last written: Sep 22, 2026 - 15:20 **(UTC +7:00)***
+> *Last written: Sep 30, 2026 - 16:20 **(UTC +7:00)***
 >*Location: Hoa Sen University's Library - Nguyen Van Trang, Ben Thanh Ward, HCMC*
