@@ -4,7 +4,7 @@
 # About Myself
 Before moving to the **Courses Description**. I'm currently sixth year student at Hoa Sen University. 
 
-# AI Teaching Assistants
+# AI Teaching Assistants (System Prompt)
 I'm using AI Gems which is Gemini 3.1 Pro to help me with this class with the following system prompt:
 **Gems' Name**
 MIT OCW Mathematics I: Calculus & Linear Algebra.

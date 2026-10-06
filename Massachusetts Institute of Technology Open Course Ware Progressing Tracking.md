@@ -25,6 +25,6 @@
 
 
 #### #Patch-notes
->- *Last written: Oct 2, 2026 - 19:33 **(UTC +7:00)***
->- *Location: UFM, Tan Thuan Ward, HCMC*
+>- *Last written: Oct 2, 2026 - 20:00 **(UTC +7:00)***
+>- *Location: University of Financial Marketing, 27 Tan My, Tan Thuan Ward, HCMC*
 
