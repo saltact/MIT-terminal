@@ -13,3 +13,7 @@ $$
 **Import functions**: $x^n$ $sin(x) and cos x$ $e^x and ln x$
 
 ## Chapter 0: Highlights of Calculus
+
+#Patch-notes
+>- *Last updated: Oct 05, 2026 - 17:00 **(UTC +7:00)***
+>- *Location: Hoa Sen University's Library, HCMC*

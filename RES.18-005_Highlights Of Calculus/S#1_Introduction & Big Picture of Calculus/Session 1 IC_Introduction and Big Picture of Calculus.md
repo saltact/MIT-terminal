@@ -14,7 +14,6 @@
 - Two main series which is Highlight Of Calculus and Derivaties.
 ## Big Picuture of Calculus
 
-#### #Patch-notes
->*This note was written in Obsidian by me*
->*Last written: Oct 05, 2026 - 17:00 **(UTC +7:00)***
->*Location: Hoa Sen University's Library - Quang Trung 2  - Quang Trung Software Park, HCMC*
+#Patch-notes
+>- *Last updated: Oct 05, 2026 - 17:00 **(UTC +7:00)***
+>- *Location: Hoa Sen University's Library, HCMC*
