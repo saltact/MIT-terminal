@@ -1,5 +1,5 @@
-> **RES.18-010 | Spring 2010 | Undergraduate**
-> [Sources](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
+>- **RES.18-010 | Spring 2010 | Undergraduate**
+>- [Sources](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 
 # About Myself
 Before moving to the **Courses Description**. I'm currently sixth year student at Hoa Sen University. 

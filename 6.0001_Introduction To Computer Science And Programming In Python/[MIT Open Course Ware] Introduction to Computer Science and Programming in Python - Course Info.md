@@ -1,5 +1,5 @@
-> **6.0001 | Fall 2016 | Undergraduate**
-> [Sources](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+> - **6.0001 | Fall 2016 | Undergraduate**
+> - [Sources](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 # AI Teaching Assistants (System Prompt)
 I'm using AI Skills which is Gemini 3.1 Pro/ 3.8 Flash to help me with this class with the following system prompt:

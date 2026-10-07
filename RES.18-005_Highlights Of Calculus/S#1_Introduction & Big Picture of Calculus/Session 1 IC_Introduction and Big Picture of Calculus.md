@@ -1,9 +1,9 @@
 
->*RES.18-005 Highlights of Calculus by Prof. Gilbert Strang.*
->[Introduction Video](https://www.youtube.com/watch?v=X9t-u87df3o&list=PLBE9407EA64E2C318)
->[Big Picture of Calculus Video]()
->[Github Repos - MIT Terminal/RES.18-005](https://github.com/saltact/MIT-terminal/tree/main/RES.18-005_Highlights%20Of%20Calculus)
->[Oct 5 ,2026 - Google Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/MDYzMG0waGhraDRpNG1qOW1lMDdlN21yOG5fMjAyNjA5MjFUMDEwMDAwWiAwY2Q1YWFkYmMwNzRkOTllNWU0Mzk1OWFkODE5N2ExMGMwMzQxMjgzM2IzNzJlYTRhMzQxMjRiODEwNmFiOWRhQGc)
+>- *RES.18-005 Highlights of Calculus by Prof. Gilbert Strang.*
+>- [Introduction Video](https://www.youtube.com/watch?v=X9t-u87df3o&list=PLBE9407EA64E2C318)
+>- [Big Picture of Calculus Video]()
+>- [Github Repos - MIT Terminal/RES.18-005](https://github.com/saltact/MIT-terminal/tree/main/RES.18-005_Highlights%20Of%20Calculus)
+>- [Oct 5 ,2026 - Google Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/MDYzMG0waGhraDRpNG1qOW1lMDdlN21yOG5fMjAyNjA5MjFUMDEwMDAwWiAwY2Q1YWFkYmMwNzRkOTllNWU0Mzk1OWFkODE5N2ExMGMwMzQxMjgzM2IzNzJlYTRhMzQxMjRiODEwNmFiOWRhQGc)
 
 # Handwriting Notes
 

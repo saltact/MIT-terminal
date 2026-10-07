@@ -1,5 +1,5 @@
-> **RES.18-005 | Spring 2010 | Undergraduate**
-> [Sources](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/)
+> - **RES.18-005 | Spring 2010 | Undergraduate**
+> - [Sources](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/)
 
 # About Myself
 Before moving to the **Courses Description**. I'm currently sixth year student at Hoa Sen University. 
