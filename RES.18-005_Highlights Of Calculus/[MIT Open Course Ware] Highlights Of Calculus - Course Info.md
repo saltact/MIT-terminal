@@ -84,6 +84,32 @@ Professor Gilbert Strang is a renowned mathematics professor who has taught at M
 Special thanks to Professor J.C. Nave for his help and advice on the development and recording of this program.
 The video editing was funded by the Lord Foundation of Massachusetts.
 
+## Reading
+In this course mostly I will be using the book for self-study since the course provided from MIT won't be cover all of the content & concept from the book but key points and main ideas of Calculus that can help me along with my **"Calculus"** journey.
+
+* ***Calculus (bookmark) - Gilbert Strang***
+
+| SES# | Course Title                                                                                                                                                                     | Equivalent Section              | Practice Question                  |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------------- |
+| 0    | [Introduction](https://mitocw.ups.edu.ec/resources/res-18-005-highlights-of-calculus-spring-2010/introduction/)                                                                  | `N\A`                           | `N\A`                              |
+| 1    | [Big Picture of Calculus](https://mitocw.ups.edu.ec/resources/res-18-005-highlights-of-calculus-spring-2010/highlights_of_calculus/big-picture-of-calculus/)                     | 0.1 \| Chapter 1                | Page 8 \| Same as online resource  |
+| 2    | [Big Picture: Derivatives](https://mitocw.ups.edu.ec/resources/res-18-005-highlights-of-calculus-spring-2010/highlights_of_calculus/big-picture-derivatives/)                    | 0.2 \| Chapter 2                | Page 14 \| Same as online resource |
+| 3    | [Max and Min and Second Derivative](https://mitocw.ups.edu.ec/resources/res-18-005-highlights-of-calculus-spring-2010/highlights_of_calculus/max-and-min-and-second-derivative/) | 0.2; 0.4 (P.23) \| Chapter 3.2  |                                    |
+| 4    | [The Exponential Function]()                                                                                                                                                     | 0.3 \| Chapter 6.1 - 6.3        |                                    |
+| 5    | [Big Picture: Integrals]()                                                                                                                                                       | 0.4 (P.25) \| Chapter 5         |                                    |
+| 6    | [Derivative of $sin(x)$ and $cos(x)$]()                                                                                                                                          | 0.4 (P.28) \| Chapter 2.4       |                                    |
+| 7    | [Product Rule and Quotient Rule]()                                                                                                                                               | 0.4 (P.30) \|  Chapter 2.5      |                                    |
+| 8    | [Chains $f(g(x))$ and the Chain Rule]()                                                                                                                                          | 0.4 (P.31) \| Chapter 4         |                                    |
+| 9    | [Limits and Continous Functions]()                                                                                                                                               | 0.4 (P.) \| Chapter 2.6 - 2.7   |                                    |
+| 10   | [Inverse Functions $f^{-1}(y)$ and the Logarithm $x=ln(y)$]()                                                                                                                    | 0.4 (P.32) \| Chapter 4.3 & 6.4 |                                    |
+| 11   | [Derivatives of $ln(y)$ and $sin^{-1}(y)$]()                                                                                                                                     | 0.4 (P.) \| `Unknown`           |                                    |
+| 12   | [Growth Rate and Log Graphs]()                                                                                                                                                   | 0.4 (P.34) \| `Unknown`         |                                    |
+| 13   | [Linear Approximation/ Newton's Method]()                                                                                                                                        | 0.4 (P.36) \| Chapter 3.1 & 3.7 |                                    |
+| 14   | [Power Series/ Euler's Great Formula]()                                                                                                                                          | 0.4 (P.41) \| `Unknown`         |                                    |
+| 15   | [Differentials Equation of Motion]()                                                                                                                                             | 0.4 (P.39) \| `Unknown`         |                                    |
+| 16   | [Differentials Equation of Growth]()                                                                                                                                             | 0.4 (P.37) \| `Unknown`         |                                    |
+| 17   | [Six Functions, Six Rules and Six Theorems]()                                                                                                                                    | 0.4 (P.42) \| `Unknown`         |                                    |
+
 #### #Patch-notes
-> *Last written: Sep 22, 2026 - 15:20 **(UTC +7:00)***
->*Location: Hoa Sen University's Library - Nguyen Van Trang, Ben Thanh Ward, HCMC*
+> *Last written: Oct 12, 2026 - 16:52 **(UTC +7:00)***
+>*Location: Hoa Sen University's Library, HCMC*
