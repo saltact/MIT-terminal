@@ -2,6 +2,7 @@
 > - [Sources](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 # AI Teaching Assistants (System Prompt)
+---
 I'm using AI Skills which is Gemini 3.1 Pro/ 3.8 Flash to help me with this class with the following system prompt:
 **Skill's Name**
 ``MIT OCW Engieerning & Programming: Systems & Architecture: C/C++ & Python``
@@ -59,12 +60,12 @@ Whenever you introduce a new system architecture concept, command-line tool, or 
 **Knowledge (Documentary)**
 - Introduction to Computational and Programming Using Python with Application to Understanding Data - 2nd Edition (John V. Guttag)``
 # Courses Description (from MIT)
-
+---
 _6.0001 Introduction to Computer Science and Programming in Python_ is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.
 
 # Course Syllabus
 > [Source]()
-
+--- 
 ### Meeting Times
 - Lectures: 2 sessions / week, 1 hour / session
 - Recitations: 1 sessions / week, 1 hour / session
@@ -125,6 +126,25 @@ Before the final quiz, we will send out an announcement in which you can choose 
 | 10    | **Understanding Program Efficiency, Part 1**                        | *Pset 4 due; Pset 5 released* |
 | 11    | **Understanding Program Efficiency, Part 2**                        |                               |
 | 12    | **Searching and Sorting**                                           | *Pset 5 due; Final Quiz*      |
+# Reading
+---
+The textbook is [Buy at MIT Press](https://mitpress.mit.edu/9780262529624) Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data Second Edition_. MIT Press, 2016. ISBN: 9780262529624. The book and the course lectures parallel each other, though there is more detail in the book about some topics. It is available both in hard copy and as an e-book.
+
+| SES # | TOPICS                                                              | READINGS                                  |
+| ----- | ------------------------------------------------------------------- | ----------------------------------------- |
+| 1     | **What is computation?**                                            | *Chapters 1 and 2.1*                      |
+| 2     | **Branching and Iteration**                                         | *Chapters 2.2, 2.3.1, 2.4, and 3.2*       |
+| 3     | **String Manipulation, Guess and Check, Approximations, Bisection** | *Chapters 3.1 and 3.3–3.5*                |
+| 4     | **Decomposition, Abstractions, Functions**                          | *Chapters 4.1–4.2 and 4.4–4.6*            |
+| 5     | **Tuples, Lists, Aliasing, Mutability, Cloning**                    | *Chapters 5.1–5.3.1 and 5.4–5.5*          |
+| 6     | **Recursion, Dictionaries**                                         | *Chapters 4.3 and 5.6*                    |
+| 7     | **Testing, Debugging, Exceptions, Assertions**                      | *Chapters 6 and 7*                        |
+| 8     | **Object Oriented Programming**                                     | *Chapter 8.1*                             |
+| 9     | **Python Classes and Inheritance**                                  | *Chapter 8.2*                             |
+| 10    | **Understanding Program Efficiency, Part 1**                        | *Chapters 9.1–9.3.1, 9.3.3, and 9.3.5*    |
+| 11    | **Understanding Program Efficiency, Part 1 (Cont.)**                | *Chapters 9.3.2, 9.3.4, 9.3.6, and 9.3.7* |
+| 12    | **Searching and Sorting algorithms**                                | *Chapters 10.1–10.2*                      |
+
 #### #Patch-notes
->- *Last updated: Oct 6, 2026 - 14:20 **(UTC +7:00)***
+>- *Last modified: Oct 15, 2026 - 11:58 **(UTC +7:00)***
 >- *Location: Hoa Sen University's Library, HCMC*
